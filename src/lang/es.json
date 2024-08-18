@@ -1,0 +1,24 @@
+{
+    "navigation": {
+        "home": "Inicio",
+        "settings": "Configuración"
+    },
+    "errors": {
+        "offline": "Actualmente no tienes una conexión a internet disponible."
+    },
+    "settings": {
+        "language": "Idioma",
+        "languages": {
+            "english": "Inglés",
+            "spanish": "Español"
+        }
+    },
+    "home": {
+        "tools-header": "Herramientas generales"
+    },
+    "login": {
+        "identification": "Identificación",
+        "password": "Contraseña",
+        "log-in": "Iniciar sesión"
+    }
+}
